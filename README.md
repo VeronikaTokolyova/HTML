@@ -1,2 +1,2 @@
 # HTML
-for HTML course
+it's a collection of HTML projects for HTML course
